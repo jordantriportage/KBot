@@ -9,7 +9,7 @@ from telegram.ext import (
     filters,
 )
 
-BOT_TOKEN = "TON_TOKEN_ICI"
+BOT_TOKEN = "7244281986:AAHyQE7rMPElsW77a1LuSrti9ROVXlbCY_M"
 GROUP_CHAT_ID = -100XXXXXXXXXX
 
 MANAGERS = {
