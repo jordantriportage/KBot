@@ -9,12 +9,14 @@ from telegram.ext import (
     filters,
 )
 
-BOT_TOKEN = "7244281986:AAHyQE7rMPElsW77a1LuSrti9ROVXlbCY_M"
-GROUP_CHAT_ID = -100XXXXXXXXXX
+TOKEN = "7244281986:AAHyQE7rMPElsW77a1LuSrti9ROVXlbCY_M"
+
+GROUP_CHAT_ID = -1003774994419  # 🔴 ID du groupe
 
 MANAGERS = {
-    "Manager 1": 123456789,
-    "Manager 2": 987654321,
+    8493969803: "Jordan DIOCHOT",
+    222222222: "Juan BERRIO",
+    333333333: "Houda EL BOUHDIDI",
 }
 
 logging.basicConfig(level=logging.INFO)
